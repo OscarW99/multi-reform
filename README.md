@@ -5,4 +5,4 @@ multi-reform is a modification of the reform tool (https://github.com/gencorefac
 
 multi-reform has three required inputs; A fasta file of the genome, a gff annotation file of the genome, and an excel spreadsheet containing information about the genome edits to be made. The excel spreadsheet can be donloaded from this repository (link) and instructions on how to fill it in are below.
 
-![alt text](https://github.com/[OscarW99]/[multi-reform]/[main]/multi_reform.png?raw=true)
+![alt text](https://github.com/[OscarW99]/[multi-reform]/[main]/Multi_reform.png?raw=true)
