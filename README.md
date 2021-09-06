@@ -19,7 +19,8 @@ Fill out a row of the excel spreadsheet for each insertion or deletion to be mad
 ![multi-reform flow diagram](https://github.com/OscarW99/multi-reform/blob/main/unfilled_excel.PNG?raw=true) <br />
 
 There are 6 columns to fill out. (1) Either insertion or deletion, (2) the name of the edit, (3) the name of the chromosome the edit is on (must be the same naming convention as in gff file), (4) the start position of the deletion or position of insertion, (5) the end position of the deletion (Not required for insertions), and finally (6) the sequence to be inserted (leave blank for deletions). <br />
-Below is an exampe of a filled in spreadsheet...
+<br />
+Below is an exampe of a filled in spreadsheet.
 <br />
 ![multi-reform flow diagram](https://github.com/OscarW99/multi-reform/blob/main/filled_excel.PNG?raw=true) <br />
 1) In the first row is an insertion which we name Cluster_insert. It is on a chromosome labelled chr05 in the gff file. We want to insert the sequence at base position 2334. End position is not required for inserts. In the final column we paste the sequence to be inserted. 
