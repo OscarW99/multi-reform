@@ -25,6 +25,6 @@ Below is an exampe of a filled in spreadsheet.
 ![multi-reform flow diagram](https://github.com/OscarW99/multi-reform/blob/main/filled_excel.PNG?raw=true) <br />
 1) In the first row is an insertion which we name Cluster_insert. It is on a chromosome labelled chr05 in the gff file. We want to insert the sequence at base position 2334. End position is not required for inserts. In the final column we paste the sequence to be inserted. 
 2) In the second row we want to delete a sequence called 'gene_name' on chromosome 'chr03'. The sequence begins at base position 344,555 and ends at position 345892. As we have no replacement sequence we do not fill in the last column.
-3) In the third column we want to delete a sequence we call 'CLN2' on a chromsome called 'chr16'. The sequence begins at base position 64,977 and ends at position 66,614. This time we want to insert a sequence in place of the deletion and we paste this into the final column.
+3) In the third column we want to delete a sequence we call 'CLN2' on a chromsome called 'chr16'. The sequence begins at base position 64,977 and ends at position 66,614. This time we want to insert a sequence in place of the deletion and so we paste this into the final column.
 
 Note the sequence name does not have to be the same as any gene name, it can be whatever you want. The sequence name will be used in the edited gff file.
