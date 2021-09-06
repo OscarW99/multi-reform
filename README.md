@@ -14,7 +14,7 @@ multi-reform has three required inputs; A fasta file of the genome, a gff annota
 
 
 ## How to fill out the excel spreadsheet:
-Fill out a row of the excel spreadsheet for each insertion or deletion to be made. <br />
+Fill out one row of the excel spreadsheet for each insertion or deletion to be made. <br />
 
 ![multi-reform flow diagram](https://github.com/OscarW99/multi-reform/blob/main/unfilled_excel.PNG?raw=true) <br />
 
